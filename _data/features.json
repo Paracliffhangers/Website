@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Indoor Climbing",
+    "description": "We host weekly climbing nights in California and New York.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Outdoor Climbing",
+    "description": "We host regular climbing weekends in the Gunks (NY), Yosemite (CA) and surroundings",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Competition",
+    "description": "We send the largest team to US Nationals and the Paraclimbing worldcup.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

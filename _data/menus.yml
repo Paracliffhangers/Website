@@ -1,0 +1,35 @@
+main:
+  - name: "About"
+    url: "/about/"
+    weight: 2
+  - name: "Mission"
+    url: "/about/"
+    weight: 3
+  - name: "Board"
+    url: "/about/"
+    weight: 4
+  - name: "Indoors"
+    url: "/indoors/"
+    weight: 5
+  - name: "Outdoors"
+    url: "/outdoors/"
+    weight: 6
+  - name: "Compete"
+    url: "/compete/"
+    weight: 7
+  - name: "Donate"
+    url: "/donate/"
+    weight: 8
+  - name: "News"
+    url: "/news/"
+    weight: 9
+
+
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2

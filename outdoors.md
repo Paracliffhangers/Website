@@ -2,16 +2,9 @@
 title: Outdoors 
 layout: page 
 description: Outdoors 
-featured: true
+intro_image: "../images/main/outdoor.jpeg"
+intro_image_absolute: false 
+intro_image_hide_on_mobile: false 
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+We organize regular outdoor trips to the Gunks and Yosemite.

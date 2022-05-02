@@ -6,6 +6,7 @@ image: "images/team/laffy.jpg"
 jobtitle: "Fetcher-in-Chief"
 linkedinurl: ""
 weight: 1
+promoted: true
 layout: team
 ---
 

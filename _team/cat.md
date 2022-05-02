@@ -5,7 +5,8 @@ draft: false
 image: "images/team/cat.jpg"
 jobtitle: "Mouse-Chaser In Chief"
 linkedinurl: ""
-weight: 1
+weight: 2
+promoted: true
 layout: team
 ---
 

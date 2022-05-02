@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: false
 ---
 
 
-Paracliffhangers fosters community, strength, adventure, inclusion, and equality through rock climbing.
+Paracliffhangers fosters community, strength, adventure, inclusion, and equality through rockclimbing.
 
 We create opportunities for people with disabilities to overcome mountains.

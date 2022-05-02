@@ -2,11 +2,11 @@
 title: Team
 layout: teams
 description: Board 
-permalink: "/teams/"
+permalink: "/team/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
 # Meet The Board 
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+We are the awesomest awesome board

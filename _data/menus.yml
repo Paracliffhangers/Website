@@ -2,11 +2,8 @@ main:
   - name: "About"
     url: "/about/"
     weight: 2
-  - name: "Mission"
-    url: "/about/"
-    weight: 3
   - name: "Board"
-    url: "/about/"
+    url: "/team/"
     weight: 4
   - name: "Indoors"
     url: "/indoors/"

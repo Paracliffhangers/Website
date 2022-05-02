@@ -9,6 +9,7 @@ dataDir: "_data"
 pagesDir: ""
 pageLayoutKey: null
 logicFields:
+  - service.weight
   - team.weight
 models:
   config:
